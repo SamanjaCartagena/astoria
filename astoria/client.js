@@ -1,5 +1,5 @@
 //const io = require("socket.io-client");
 $(function (){
 
-    var socket = io.connect('http://127.0.0.1:4000');
+    var socket = io.connect('https://zealous-edison-615abe.netlify.app/astoria/');
 })
